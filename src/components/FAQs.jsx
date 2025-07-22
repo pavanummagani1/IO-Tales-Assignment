@@ -16,7 +16,7 @@ function FaqSection() {
     },
     {
       question: "How can I contact customer support?",
-      answer: "Our team is available 24/7 via live chat, email (support@example.com), or phone (+1-555-123-4567)."
+      answer: "Our team is available 24/7 via live chat, email (kidZworld@example.com), or phone (+1-555-123-4567)."
     },
     {
       question: "Are my payments secure?",

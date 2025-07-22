@@ -14,7 +14,7 @@ const Footer = () => {
         <div className="row justify-content-between align-items-start">
           {/* Newsletter */}
           <div className="col-md-3 mb-4">
-            <h5 className="fw-bold">Subscribe to the io Tales Newsletter</h5>
+            <h5 className="fw-bold">Subscribe to the KidZworld Newsletter</h5>
             <p className="small">
               Latest news, insights, announcements and updates sent to your inbox.
             </p>

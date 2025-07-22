@@ -8,7 +8,7 @@ function AboutSection() {
 
       <div className="container text-center position-relative z-1">
         <h2 className="section-tag">ABOUT</h2>
-        <h1 className="section-title">io tales</h1>
+        <h1 className="section-title">KidZworld</h1>
         <p className="section-sub">Small team, big tales, endless play.</p>
 
         {/* About box with stroke line */}
